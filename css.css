@@ -1,0 +1,14 @@
+.nav{
+    background-color: blanchedalmond;
+    display: flex;
+
+    text-decoration: none;
+
+}
+.nav h3{
+    margin-left: 50px
+}
+.w3schoole{
+    background-color: black;
+     color: aliceblue;
+}
